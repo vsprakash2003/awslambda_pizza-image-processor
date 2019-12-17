@@ -9,7 +9,7 @@ git checkout -b origin/develop
 git init
 git add .
 git commit -m "first commit"
-git remote add origin https://github.com/vsprakash2003/awslambda_playground.git
+git remote add origin https://github.com/vsprakash2003/awslambda_pizza-image-processor
 git push -u origin origin/develop
 ```
 
